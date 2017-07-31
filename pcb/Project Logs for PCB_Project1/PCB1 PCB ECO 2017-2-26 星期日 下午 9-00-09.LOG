@@ -1,0 +1,11 @@
+Change Component Comment : Designator=R4 Old Comment=30K New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=30K New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=30K New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=30K New Comment=10K
+Change Component Comment : Designator=R6 Old Comment=30K New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=30K New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=Res Tap New Comment=10k
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R5-1
+Added Net: Name=NetC2_2
+Added Room: Name=Sheet1

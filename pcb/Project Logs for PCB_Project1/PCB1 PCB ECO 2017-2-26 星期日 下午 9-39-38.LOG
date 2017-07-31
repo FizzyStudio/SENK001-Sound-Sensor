@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=* Old DesignItemId=LM358 New DesignItemId=MIC
+Change Component DesignItemId : Designator=* Old DesignItemId=MIC New DesignItemId=LM358
+Change Component Footprint: Designator=* Old Footprint=Soundsenor New Footprint=HMC_MS8
+Change Component Comment : Designator=* Old Comment=LM358 New Comment=MIC
+Change Component Comment : Designator=* Old Comment=MIC New Comment=LM358
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=Net*_3 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=VCC Pin=*-8
+Added Member To Class: ClassName=Sheet1 Member=Component * MIC

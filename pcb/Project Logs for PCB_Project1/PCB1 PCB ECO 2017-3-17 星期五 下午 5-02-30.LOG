@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C1 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=C2 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R1 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R2 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R3 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R4 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R5 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R6 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R7 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=C3 Old Footprint=0603 New Footprint=14-1210
+Change Component Footprint: Designator=C4 Old Footprint=0603 New Footprint=14-1210
+Change Component Comment : Designator=C3 Old Comment=cap0603 New Comment=cap1210
+Change Component Comment : Designator=C4 Old Comment=cap0603 New Comment=cap1210
+Added Room: Name=Sheet1

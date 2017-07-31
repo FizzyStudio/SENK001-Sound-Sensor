@@ -1,0 +1,7 @@
+Added Component: Designator=*2(Soundsenor)
+Added Component: Designator=V1(Via)
+Added Component: Designator=V2(Via)
+Added Member To Class: ClassName=Sheet1 Member=Component *2 MIC
+Added Member To Class: ClassName=Sheet1 Member=Component V1 Via
+Added Member To Class: ClassName=Sheet1 Member=Component V2 Via
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A Pin=R6-2
+Removed Pin From Net: NetName=A Pin=R7-1
+Added Component: Designator=*(IOR_SO-8)
+Change Net Name : Old Net Name=A New Net Name=NetR1_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=Sheet1 Member=Component * LM358

@@ -1,0 +1,7 @@
+Added Component: Designator=*(IOR_SO-8)
+Added Pin To Net: NetName=A Pin=R1-1
+Added Pin To Net: NetName=A Pin=R4-2
+Added Pin To Net: NetName=A Pin=R6-2
+Added Pin To Net: NetName=A Pin=R7-1
+Added Net: Name=A
+Added Member To Class: ClassName=Sheet1 Member=Component * LM358

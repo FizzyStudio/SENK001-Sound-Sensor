@@ -1,0 +1,64 @@
+Added Component: Designator=*1(Soundsenor)
+Added Component: Designator=*2(SOT92)
+Added Component: Designator=*3(sh-2.0)
+Added Component: Designator=C1(0402)
+Added Component: Designator=C2(0402)
+Added Component: Designator=C3(0603)
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0402)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Component: Designator=R3(0402)
+Added Component: Designator=R4(0402)
+Added Component: Designator=R5(0402)
+Added Component: Designator=R6(0402)
+Added Component: Designator=R7(0402)
+Added Component: Designator=R8(BORUNS_3314J-1)
+Added Pin To Net: NetName=GND Pin=*3-1
+Added Pin To Net: NetName=VCC Pin=*3-2
+Added Pin To Net: NetName=Net*3_3 Pin=*3-3
+Added Pin To Net: NetName=Net*3_3 Pin=*3-3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=R4-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_2 Pin=R5-1
+Added Pin To Net: NetName=NetR2_1 Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=Net*3_3 Pin=R8-3
+Added Member To Class: ClassName=Sheet1 Member=Component *1 MIC
+Added Member To Class: ClassName=Sheet1 Member=Component *2 LM385-2.5
+Added Member To Class: ClassName=Sheet1 Member=Component *3 sh-2.0
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C2 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C3 cap0603
+Added Member To Class: ClassName=Sheet1 Member=Component C4 cap0603
+Added Member To Class: ClassName=Sheet1 Member=Component C5 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component R1 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res Tap
+Added Room: Name=Sheet1

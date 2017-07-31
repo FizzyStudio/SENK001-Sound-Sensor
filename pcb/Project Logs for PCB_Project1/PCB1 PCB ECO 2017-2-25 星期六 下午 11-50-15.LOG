@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=VCC Pin=*-8
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C2-1
+Added Pin To Net: NetName=Net*_1 Pin=R1-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R1-1
+Added Pin To Net: NetName=Net*_2 Pin=R4-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-5
+Added Pin To Net: NetName=Net*_3 Pin=R6-2
+Added Pin To Net: NetName=Net*_3 Pin=R7-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=R2-1
+Added Pin To Net: NetName=Net*_6 Pin=R5-2
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=C3-1
+Added Pin To Net: NetName=Net*_7 Pin=R2-2
+Added Net: Name=Net*_7
